@@ -1,6 +1,6 @@
 # estimatecron
 
-Usage: ./estimatecron.c <month> <crontab-file> <estimates-file>
+Usage: ./estimatecron.c month crontab-file estimates-file
 
 Program requires: a valid month argument, a valid crontab file 
 and a valid estimates file. It uses these arguments to see:
